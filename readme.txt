@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== CrossFade Gallery ===
 Contributors: creativator
 Donate link: http://creativator.net/
 Tags: crossfade, fade, fading, gallery, image, images, slide, slider
