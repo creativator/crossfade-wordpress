@@ -53,7 +53,7 @@ function crossfade_gallery_type()
 		)
 	);
 	
-	add_theme_support('post-thumbnails', array('cf_slider'));
+	add_theme_support('crossfade-thumbnails', array('cf_slider'));
 }
 
 function crossfade_admin_menu() 
